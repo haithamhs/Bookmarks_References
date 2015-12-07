@@ -5,13 +5,19 @@ Just useful References!
 ## Learning R Online
 * [DataCamp](https://www.datacamp.com/ "DataCamp Homepage")
 * [dataquest](https://www.dataquest.io/ "dataquest Homepage")
-* [Code Schoole - try R](http://tryr.codeschool.com/ "tryr Homepage")
+* [Code School - try R](http://tryr.codeschool.com/ "tryr Homepage")
 
 
 ## Data Science Competitions
 * [Kaggle](https://www.kaggle.com/ "Kaggle Homepage")
 * [DrivenData](http://www.drivendata.org/ "DrivenData Homepage")
 * [CrowdANALYTIX](https://www.crowdanalytix.com/ "CrowdANALYTIX Homepage")
+
+
+## Blogs and Websites for Data Science
+* [R-bloggers](http://www.r-bloggers.com/ "R-bloggers Homepage")
+* [Data Mining, Analytics, Big Data, and Data Science - KDnuggets](http://www.kdnuggets.com/ "KDnuggests Homepage")
+* [Analytics Vidhya](http://www.analyticsvidhya.com/ "Analytics Vidhya Homepage")
 
 
 ## Book Reviews 
