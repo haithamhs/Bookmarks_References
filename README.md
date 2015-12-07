@@ -35,3 +35,5 @@ Just useful References!
   by Brian Caffo
 11. [The Elements of Data Analytic Style](https://leanpub.com/datastyle "Book link on leanpub")
   by Jeff Leek
+12. [Learning Statistics with R](http://health.adelaide.edu.au/psychology/ccs/teaching/lsr/ "Book Homepage")
+  by Daniel Navarro
