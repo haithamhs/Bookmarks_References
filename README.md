@@ -2,14 +2,20 @@
 
 Just useful References! 
 
-## Book Reviews 
-* [rkbookreviews](https://rkbookreviews.wordpress.com/ "rkbookreviews Homepage")
+## Learning R Online
+* [DataCamp](https://www.datacamp.com/ "DataCamp Homepage")
+* [dataquest](https://www.dataquest.io/ "dataquest Homepage")
+* [Code Schoole - try R](http://tryr.codeschool.com/ "tryr Homepage")
 
 
 ## Data Science Competitions
 * [Kaggle](https://www.kaggle.com/ "Kaggle Homepage")
 * [DrivenData](http://www.drivendata.org/ "DrivenData Homepage")
 * [CrowdANALYTIX](https://www.crowdanalytix.com/ "CrowdANALYTIX Homepage")
+
+
+## Book Reviews 
+* [rkbookreviews](https://rkbookreviews.wordpress.com/ "rkbookreviews Homepage")
 
 
 ## Books 
