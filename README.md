@@ -18,6 +18,10 @@ Just useful References!
 * [R-bloggers](http://www.r-bloggers.com/ "R-bloggers Homepage")
 * [Data Mining, Analytics, Big Data, and Data Science - KDnuggets](http://www.kdnuggets.com/ "KDnuggests Homepage")
 * [Analytics Vidhya](http://www.analyticsvidhya.com/ "Analytics Vidhya Homepage")
+* [Data Science Central](http://www.datasciencecentral.com/ "Homepage")
+* [r-dir](https://r-dir.com/ "Homepage")
+* [inside-R](http://www.inside-r.org/ "Homepage")
+* [R-statistics](http://www.r-statistics.com/ "Blog Homepage")
 
 
 ## Book Reviews 
@@ -53,3 +57,6 @@ Just useful References!
   by G. Jay Kerns
   * [First Edition on cran r project website](https://cran.r-project.org/web/packages/IPSUR/vignettes/IPSUR.pdf "Book link on cran r project")
   * [Github page for the book](https://github.com/gjkerns/IPSUR "github for the book") <- _Second Edition_
+14. [Applied Predictive Modeling](http://appliedpredictivemodeling.com/ "Homepage")
+  by Max Kuhn and Kjell Johnson
+
