@@ -49,7 +49,7 @@ Just useful References!
   by Jeff Leek
 12. [Learning Statistics with R](http://health.adelaide.edu.au/psychology/ccs/teaching/lsr/ "Book Homepage")
   by Daniel Navarro
-13. Introduction to Probability and Statistics Using R by G. Jay Kerns
-  * [Book Homepage](http://ipsur.org/index.html "Book Homepage")
+13. [Introduction to Probability and Statistics Using R](http://ipsur.org/index.html "Book Homepage")
+  by G. Jay Kerns
   * [First Edition on cran r project website](https://cran.r-project.org/web/packages/IPSUR/vignettes/IPSUR.pdf "Book link on cran r project")
   * [Github page for the book](https://github.com/gjkerns/IPSUR "github for the book") <- _Second Edition_
