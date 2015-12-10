@@ -2,6 +2,12 @@
 
 Just useful References! 
 
+## R 
+* [R - The R Project for Statistical Computing](https://www.r-project.org/ "Homepage")
+* [Revolution Analytics](http://www.revolutionanalytics.com/ "Homepage")
+* [RStudio](https://www.rstudio.com/ "Homepage")
+
+
 ## Learning R Online
 * [DataCamp](https://www.datacamp.com/ "DataCamp Homepage")
 * [dataquest](https://www.dataquest.io/ "dataquest Homepage")
