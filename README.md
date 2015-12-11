@@ -65,4 +65,9 @@ Just useful References!
   * [Github page for the book](https://github.com/gjkerns/IPSUR "github for the book") <- _Second Edition_
 14. [Applied Predictive Modeling](http://appliedpredictivemodeling.com/ "Homepage")
   by Max Kuhn and Kjell Johnson
+15. [The R Inferno](http://www.burns-stat.com/documents/books/the-r-inferno/ "Book Homepage")
+  by Patrick Burns
+16. [R Tips](http://pj.freefaculty.org/R/Rtips.html "Homepage")
+  by Paul E. Johnson
+17. 
 
