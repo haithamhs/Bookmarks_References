@@ -35,6 +35,7 @@ Just useful References!
 
 
 ## Books 
+### Books in R / Using R
 1. [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](http://statweb.stanford.edu/~tibs/ElemStatLearn/ "Book Homepage") 
   by Trevor Hastie, Robert Tibshirani, and Jerome Friedman
 2. [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/ "Book Homepage")  
@@ -69,5 +70,14 @@ Just useful References!
   by Patrick Burns
 16. [R Tips](http://pj.freefaculty.org/R/Rtips.html "Homepage")
   by Paul E. Johnson
-17. 
+17. [Modern Optimization with R](http://www.springer.com/us/book/9783319082622 "Book Homepage on Springer")
+  by Paulo Cortez
+18. [Advanced R](http://adv-r.had.co.nz/ "Book Homepage")
+  by Hadley Wickham
+19. []
 
+
+### Books - No Specific Software
+1. [Data Smart: Using Data Science to Transform Information into Insight](http://www.john-foreman.com/data-smart-book.html "Book Homepage")
+  by John W. Foreman
+2. 
