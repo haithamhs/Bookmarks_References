@@ -22,12 +22,13 @@ Just useful References!
 
 ## Blogs and Websites for Data Science
 * [R-bloggers](http://www.r-bloggers.com/ "R-bloggers Homepage")
-* [Data Mining, Analytics, Big Data, and Data Science - KDnuggets](http://www.kdnuggets.com/ "KDnuggests Homepage")
-* [Analytics Vidhya](http://www.analyticsvidhya.com/ "Analytics Vidhya Homepage")
-* [Data Science Central](http://www.datasciencecentral.com/ "Homepage")
 * [r-dir](https://r-dir.com/ "Homepage")
 * [inside-R](http://www.inside-r.org/ "Homepage")
 * [R-statistics](http://www.r-statistics.com/ "Blog Homepage")
+* [Data Mining, Analytics, Big Data, and Data Science - KDnuggets](http://www.kdnuggets.com/ "KDnuggests Homepage")
+* [Analytics Vidhya](http://www.analyticsvidhya.com/ "Analytics Vidhya Homepage")
+* [Data Science Central](http://www.datasciencecentral.com/ "Homepage")
+* [Predictive Analytics World](http://www.predictiveanalyticsworld.com/ "Homepage")
 
 
 ## Book Reviews 
@@ -74,10 +75,17 @@ Just useful References!
   by Paulo Cortez
 18. [Advanced R](http://adv-r.had.co.nz/ "Book Homepage")
   by Hadley Wickham
-19. []
+19. [OpenIntro Statistics](https://www.openintro.org/stat/?stat_book=os "Book Homepage")
+  by David M Diez, Christopher D Barr, and Mine Çetinkaya-Rundel
+20.
+
 
 
 ### Books - No Specific Software
 1. [Data Smart: Using Data Science to Transform Information into Insight](http://www.john-foreman.com/data-smart-book.html "Book Homepage")
   by John W. Foreman
-2. 
+2. [Predictive Analytics, Revised and Updated: The Power to Predict Who Will Click, Buy, Lie, or Die]() (Revised and Upated Edition)
+  by Eric Siegel 
+3. [The Visual Display of Quantitative Information](http://www.edwardtufte.com/tufte/books_vdqi "Book Hompege")
+  by Edward Tufte
+4.
