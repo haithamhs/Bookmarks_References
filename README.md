@@ -77,15 +77,17 @@ Just useful References!
   by Hadley Wickham
 19. [OpenIntro Statistics](https://www.openintro.org/stat/?stat_book=os "Book Homepage")
   by David M Diez, Christopher D Barr, and Mine Çetinkaya-Rundel
-20.
-
-
+20. [Guide to Programming and Algorithms Using R](http://www.springer.com/us/book/9781447153276 "Book Homepage on Springer")
+  by Özgür Ergül
+21. [The Art of R Programming: A Tour of Statistical Software Design]("No Link")
+  by Norman Matloff
 
 ### Books - No Specific Software
 1. [Data Smart: Using Data Science to Transform Information into Insight](http://www.john-foreman.com/data-smart-book.html "Book Homepage")
   by John W. Foreman
-2. [Predictive Analytics, Revised and Updated: The Power to Predict Who Will Click, Buy, Lie, or Die]() (Revised and Upated Edition)
+2. [Predictive Analytics, Revised and Updated: The Power to Predict Who Will Click, Buy, Lie, or Die]("No Link") (Revised and Upated Edition)
   by Eric Siegel 
 3. [The Visual Display of Quantitative Information](http://www.edwardtufte.com/tufte/books_vdqi "Book Hompege")
   by Edward Tufte
-4.
+4. [Visualize This](http://www.book.flowingdata.com/ "Book Homepage")
+  by Nathan Yau who
