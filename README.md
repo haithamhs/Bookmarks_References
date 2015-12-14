@@ -81,6 +81,9 @@ Just useful References!
   by Özgür Ergül
 21. [The Art of R Programming: A Tour of Statistical Software Design]("No Link")
   by Norman Matloff
+22. [R in Action](https://www.manning.com/books/r-in-action-second-edition?a_bid=5c2b1e1d&a_aid=RiA2ed "Book Homepage")
+  by Robert I. Kabacoff
+  
 
 ### Books - No Specific Software
 1. [Data Smart: Using Data Science to Transform Information into Insight](http://www.john-foreman.com/data-smart-book.html "Book Homepage")
@@ -91,3 +94,6 @@ Just useful References!
   by Edward Tufte
 4. [Visualize This](http://www.book.flowingdata.com/ "Book Homepage")
   by Nathan Yau who
+5. [Data Science for Business](http://data-science-for-biz.com/DSB/Home.html "Book Homepage")
+  by By Foster Provost, Tom Fawcett
+6. 
