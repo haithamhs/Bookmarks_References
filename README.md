@@ -96,4 +96,8 @@ Just useful References!
   by Nathan Yau who
 5. [Data Science for Business](http://data-science-for-biz.com/DSB/Home.html "Book Homepage")
   by By Foster Provost, Tom Fawcett
-6. 
+6. [Introduction to Probability](http://www.amazon.com/gp/product/1466575573/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1466575573&linkCode=as2&tag=datascientist-20&linkId=DMC64XQVG4QHMHVQ "amazon link page")
+  by Joseph K. Blitzstein, Jessica Hwang
+  * [Youtube Videos by the Author](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo "Youtube Channel by HARVARD")
+7. [The Functional Art](http://www.thefunctionalart.com/ "Book Homepage")
+  by Alberto Cairo
