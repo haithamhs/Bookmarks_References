@@ -13,6 +13,8 @@ Just useful References!
 * [DataCamp](https://www.datacamp.com/ "DataCamp Homepage")
 * [dataquest](https://www.dataquest.io/ "dataquest Homepage")
 * [Code School - try R](http://tryr.codeschool.com/ "tryr Homepage")
+* [LEADA](https://www.teamleada.com/ "LEADA Homepage")
+* [RStudio - Webinars and Videos On Demand](https://www.rstudio.com/resources/webinars/ "webinar Homepage")
 
 
 ## Data Science Competitions
