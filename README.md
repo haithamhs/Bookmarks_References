@@ -18,6 +18,18 @@ Just useful References!
 * [RStudio - Webinars and Videos On Demand](https://www.rstudio.com/resources/webinars/ "webinar Homepage")
 
 
+## Learning Data Science Online
+* [udemy - by Charles Redmond, Professor at Mercyhurst University](https://www.udemy.com/user/charlesredmond/ "Homepage at udemy")
+  1. [R, ggplot, and Simple Linear Regression](https://www.udemy.com/machlearn1/ "Course Homepage")
+  2. [Polynomial Regression, R, and ggplot](https://www.udemy.com/machlearn2/ "Course Homepage")
+  3. [Training Sets, Test Sets, R, and ggplot](https://www.udemy.com/machlearn3/ "Course Homepage")
+  4. [Baseball Database Queries with SQL and dplyr](https://www.udemy.com/baseball1/ "Course Homepage")
+  5. [Baseball Data Wrangling with Vagrant, R, and Retrosheet](https://www.udemy.com/baseball2/ "Course Homepage")
+  6. [Pitch Location Charts with PITCHf/x and ggplot](https://www.udemy.com/baseball3/ "Course Homepage")
+  7. [Batting Location Charts with Vagrant and MySQL](https://www.udemy.com/baseball4/ "Course Homepage")
+
+
+
 ## Data Science Competitions
 * [Kaggle](https://www.kaggle.com/ "Kaggle Homepage")
 * [DrivenData](http://www.drivendata.org/ "DrivenData Homepage")
