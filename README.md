@@ -14,6 +14,7 @@ Just useful References!
 * [dataquest](https://www.dataquest.io/ "dataquest Homepage")
 * [Code School - try R](http://tryr.codeschool.com/ "tryr Homepage")
 * [LEADA](https://www.teamleada.com/ "LEADA Homepage")
+* [swirl - Learn R, in R](http://swirlstats.com/ "swirl Homepage")
 * [RStudio - Webinars and Videos On Demand](https://www.rstudio.com/resources/webinars/ "webinar Homepage")
 
 
