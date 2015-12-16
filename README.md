@@ -46,6 +46,9 @@ Just useful References!
 * [Data Science Central](http://www.datasciencecentral.com/ "Homepage")
 * [Predictive Analytics World](http://www.predictiveanalyticsworld.com/ "Homepage")
 * [r-statistics.co](http://r-statistics.co/ "Homepage"): An educational resource for those seeking knowledge related to machine learning and statistical computing in R.
+* [R for Public Health](http://rforpublichealth.blogspot.com/ "Homepage")
+* [ZevRoss - Know Your Data](http://zevross.com/blog/ "Blog Homepage")
+
 
 
 ## Book Reviews 
@@ -132,7 +135,7 @@ Just useful References!
 
 
 ### Markdown
-*[MARKDOWN SYNTAX - GitHub Guides](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf "on Github") by GitHub
+* [MARKDOWN SYNTAX - GitHub Guides](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf "on Github") by GitHub
 
 
 ### Probability and Statistics
