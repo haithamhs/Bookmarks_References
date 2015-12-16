@@ -131,6 +131,8 @@ Just useful References!
 * [R Markdown Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf "on RStudio Web") by RStudio
 * [Data Visualization with ggplot2 Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf "on RStudio Web") by RStudio
 * [Advanced Data Visualization with ggplot2 Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2015/04/ggplot2-cheatsheet.pdf "on RStudio Web") by RStudio
+* [The R Markdown Cheat sheet](http://shiny.rstudio.com/articles/rm-cheatsheet.html "shiny article") by Shiny RStudio
+* [The Shiny Cheat sheet](http://shiny.rstudio.com/articles/cheatsheet.html "shiny article") by Shiny RStudio
 
 
 
