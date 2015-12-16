@@ -45,6 +45,7 @@ Just useful References!
 * [Analytics Vidhya](http://www.analyticsvidhya.com/ "Analytics Vidhya Homepage")
 * [Data Science Central](http://www.datasciencecentral.com/ "Homepage")
 * [Predictive Analytics World](http://www.predictiveanalyticsworld.com/ "Homepage")
+* [r-statistics.co](http://r-statistics.co/ "Homepage"): An educational resource for those seeking knowledge related to machine learning and statistical computing in R.
 
 
 ## Book Reviews 
@@ -99,6 +100,8 @@ Just useful References!
   by Norman Matloff
 22. [R in Action](https://www.manning.com/books/r-in-action-second-edition?a_bid=5c2b1e1d&a_aid=RiA2ed "Book Homepage")
   by Robert I. Kabacoff
+23. [Modeling and Solving Linear Programming with R](http://www.omniascience.com/scholar/index.php/scholar/issue/view/19 "Book Homepage")
+  by Jose M. Sallan, Oriol Lordan, Vicenc Fernandez
   
 
 ### Books - No Specific Software
@@ -117,3 +120,20 @@ Just useful References!
   * [Youtube Videos by the Author](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo "Youtube Channel by HARVARD")
 7. [The Functional Art](http://www.thefunctionalart.com/ "Book Homepage")
   by Alberto Cairo
+  
+  
+  
+## Cheatsheets
+### related to R
+* [R Markdown Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf "on RStudio Web") by RStudio
+* [Data Visualization with ggplot2 Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf "on RStudio Web") by RStudio
+* [Advanced Data Visualization with ggplot2 Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2015/04/ggplot2-cheatsheet.pdf "on RStudio Web") by RStudio
+
+
+
+### Markdown
+*[MARKDOWN SYNTAX - GitHub Guides](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf "on Github") by GitHub
+
+
+### Probability and Statistics
+* [Probability Cheatsheet](http://www.wzchen.com/probability-cheatsheet/ "Homepage") by William Chen
