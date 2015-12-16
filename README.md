@@ -7,6 +7,7 @@ Just useful References!
 * [Revolution Analytics](http://www.revolutionanalytics.com/ "Homepage")
 * [RStudio](https://www.rstudio.com/ "Homepage")
 * [Bioconductor - Open Source Software For Bioinformatics](http://bioconductor.org/ "Homepage")
+* [rseek](http://rseek.org/ "Homepage")
 
 
 ## Learning R Online
@@ -128,11 +129,17 @@ Just useful References!
   
 ## Cheatsheets
 ### related to R
-* [R Markdown Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf "on RStudio Web") by RStudio
+* [RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/ "RStudio Resources Homepage") by RStudio
+* [R Reference Card](https://cran.r-project.org/doc/contrib/Short-refcard.pdf "cran r project") by Tom Short
+* [R Cheat Sheet](https://s3.amazonaws.com/quandl-static-content/Documents/Quandl+-+R+Cheat+Sheet.pdf "quandl") by quandl.com
 * [Data Visualization with ggplot2 Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf "on RStudio Web") by RStudio
 * [Advanced Data Visualization with ggplot2 Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2015/04/ggplot2-cheatsheet.pdf "on RStudio Web") by RStudio
-* [The R Markdown Cheat sheet](http://shiny.rstudio.com/articles/rm-cheatsheet.html "shiny article") by Shiny RStudio
-* [The Shiny Cheat sheet](http://shiny.rstudio.com/articles/cheatsheet.html "shiny article") by Shiny RStudio
+* [Data Wrangling with dplyr and tidyr Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf "on RStudio Web") by RStudio
+* [R Markdown Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf "on RStudio Web") by RStudio
+* [R Markdown Reference Guide](http://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf "on RStudio Web") by RStudio
+* [The R Markdown Cheat Sheet](http://shiny.rstudio.com/articles/rm-cheatsheet.html "shiny article") by Shiny RStudio
+* [The Shiny Cheat Sheet](http://shiny.rstudio.com/articles/cheatsheet.html "shiny article") by Shiny RStudio
+* [Package Development with devtools Cheat Sheet](http://www.rstudio.com/wp-content/uploads/2015/06/devtools-cheatsheet.pdf "on RStudio Web") by RStudio
 
 
 
