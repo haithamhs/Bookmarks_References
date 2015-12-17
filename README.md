@@ -51,6 +51,7 @@ Just useful References!
 * [r-statistics.co](http://r-statistics.co/ "Homepage"): An educational resource for those seeking knowledge related to machine learning and statistical computing in R.
 * [R for Public Health](http://rforpublichealth.blogspot.com/ "Homepage")
 * [ZevRoss - Know Your Data](http://zevross.com/blog/ "Blog Homepage")
+* [SIMPLY STATISTICS - simplystats](http://simplystatistics.org/ "Homepage")
 
 
 
