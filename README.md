@@ -17,6 +17,7 @@ Just useful References!
 * [LEADA](https://www.teamleada.com/ "LEADA Homepage")
 * [swirl - Learn R, in R](http://swirlstats.com/ "swirl Homepage")
 * [RStudio - Webinars and Videos On Demand](https://www.rstudio.com/resources/webinars/ "webinar Homepage")
+* [simplilearn](http://www.simplilearn.com/ "Homepage")
 
 
 ## Learning Data Science Online
@@ -35,6 +36,7 @@ Just useful References!
 * [Kaggle](https://www.kaggle.com/ "Kaggle Homepage")
 * [DrivenData](http://www.drivendata.org/ "DrivenData Homepage")
 * [CrowdANALYTIX](https://www.crowdanalytix.com/ "CrowdANALYTIX Homepage")
+* [InnoCentive](https://www.innocentive.com/ "Homepage")
 
 
 ## Blogs and Websites for Data Science
