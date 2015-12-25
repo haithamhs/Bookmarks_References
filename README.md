@@ -33,6 +33,7 @@ Just useful References!
 
 
 
+
 ## Data Science Competitions
 * [Kaggle](https://www.kaggle.com/ "Kaggle Homepage")
 * [DrivenData](http://www.drivendata.org/ "DrivenData Homepage")
@@ -110,6 +111,8 @@ Just useful References!
   by Robert I. Kabacoff
 23. [Modeling and Solving Linear Programming with R](http://www.omniascience.com/scholar/index.php/scholar/issue/view/19 "Book Homepage")
   by Jose M. Sallan, Oriol Lordan, Vicenc Fernandez
+24. [Introduction to Scientific Programming and Simulation Using R, Second Edition](https://www.crcpress.com/Introduction-to-Scientific-Programming-and-Simulation-Using-R-Second-Edition/Jones-Maillardet-Robinson/9781466569997 "on CRC Homepage")
+  by Owen Jones, Robert Maillardet, Andrew Robinson
   
 
 ### Books - No Specific Software
