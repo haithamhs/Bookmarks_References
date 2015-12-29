@@ -18,6 +18,7 @@ Just useful References!
 * [swirl - Learn R, in R](http://swirlstats.com/ "swirl Homepage")
 * [RStudio - Webinars and Videos On Demand](https://www.rstudio.com/resources/webinars/ "webinar Homepage")
 * [simplilearn](http://www.simplilearn.com/ "Homepage")
+* [R by example](http://www.mayin.org/ajayshah/KB/R/ "Homepage")
 
 
 ## Learning Data Science Online
