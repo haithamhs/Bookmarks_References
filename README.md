@@ -141,7 +141,7 @@ Just useful References!
 * [RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/ "RStudio Resources Homepage") by RStudio
 * [R Reference Card](https://cran.r-project.org/doc/contrib/Short-refcard.pdf "cran r project") by Tom Short
 * [R Cheat Sheet](https://s3.amazonaws.com/quandl-static-content/Documents/Quandl+-+R+Cheat+Sheet.pdf "quandl") by quandl.com
-* [RSTUDIO Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/ "on RStudio Web") by RStudio
+* [RStudio cheat sheets - ALL](https://www.rstudio.com/resources/cheatsheets/ "on RStudio Web") by RStudio
 
 
 
