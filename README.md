@@ -10,6 +10,11 @@ Just useful References!
 * [rseek](http://rseek.org/ "Homepage")
 
 
+## Python
+* [Python - Official Site](https://www.python.org "Homepage")
+* [Continuum - Anaconda](https://www.continuum.io "Homepage")
+
+
 ## Learning R Online
 * [DataCamp](https://www.datacamp.com/ "DataCamp Homepage")
 * [dataquest](https://www.dataquest.io/ "dataquest Homepage")
