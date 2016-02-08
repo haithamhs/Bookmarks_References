@@ -5,8 +5,9 @@ Just useful References!
 ## R 
 * [R - The R Project for Statistical Computing](https://www.r-project.org/ "Homepage")
 * [Revolution Analytics](http://www.revolutionanalytics.com/ "Homepage")
-    * Note: Revolution R Open is now known as Microsoft R Open (MRO). 
+    * Note: Revolution R Open is now known as Microsoft R Open (MRO). [Download Link](https://mran.microsoft.com "Download Homepage")
 * [RStudio](https://www.rstudio.com/ "Homepage")
+    * Best IDE for R Language.
 * [Bioconductor - Open Source Software For Bioinformatics](http://bioconductor.org/ "Homepage")
 * [rseek](http://rseek.org/ "Homepage")
 
@@ -14,6 +15,10 @@ Just useful References!
 ## Python
 * [Python - Official Site](https://www.python.org "Homepage")
 * [Continuum - Anaconda](https://www.continuum.io "Homepage")
+    * Python IDEs
+        * [Spyder IDE](https://github.com/spyder-ide/spyder)
+        * [PyCharm](https://www.jetbrains.com/pycharm/) Community Edition
+        * [Rodeo](https://www.yhat.com/products/rodeo) by yhat
 
 
 ## Learning R Online
