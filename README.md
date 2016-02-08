@@ -5,6 +5,7 @@ Just useful References!
 ## R 
 * [R - The R Project for Statistical Computing](https://www.r-project.org/ "Homepage")
 * [Revolution Analytics](http://www.revolutionanalytics.com/ "Homepage")
+    * Note: Revolution R Open is now known as Microsoft R Open (MRO). 
 * [RStudio](https://www.rstudio.com/ "Homepage")
 * [Bioconductor - Open Source Software For Bioinformatics](http://bioconductor.org/ "Homepage")
 * [rseek](http://rseek.org/ "Homepage")
