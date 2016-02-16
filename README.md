@@ -67,6 +67,7 @@ Just useful References!
 * [ZevRoss - Know Your Data](http://zevross.com/blog/ "Blog Homepage")
 * [SIMPLY STATISTICS - simplystats](http://simplystatistics.org/ "Homepage")
 * [Statistical Modeling, Causal Inference, and Social Science](http://andrewgelman.com/ "Homepage")
+* [Statistics.com](http://www.statistics.com "Homepage")
 
 
 
