@@ -68,6 +68,7 @@ Just useful References!
 * [SIMPLY STATISTICS - simplystats](http://simplystatistics.org/ "Homepage")
 * [Statistical Modeling, Causal Inference, and Social Science](http://andrewgelman.com/ "Homepage")
 * [Statistics.com](http://www.statistics.com "Homepage")
+* [pythonprogramming.net](https://pythonprogramming.net "Homepage") -- mainly using __PYTHON__ -- __INCLUDING VIDEOS__
 
 
 
