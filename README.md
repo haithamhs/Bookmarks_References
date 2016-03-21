@@ -3,6 +3,7 @@
 Just useful References! 
 
 ## R 
+
 * [R - The R Project for Statistical Computing](https://www.r-project.org/ "Homepage")
 * [Revolution Analytics](http://www.revolutionanalytics.com/ "Homepage")
     * Note: Revolution R Open is now known as Microsoft R Open (MRO). [Download Link](https://mran.microsoft.com "Download Homepage")
@@ -13,6 +14,7 @@ Just useful References!
 
 
 ## Python
+
 * [Python - Official Site](https://www.python.org "Homepage")
 * [Continuum - Anaconda](https://www.continuum.io "Homepage")
     * Python IDEs
@@ -22,6 +24,7 @@ Just useful References!
 
 
 ## Learning R Online
+
 * [DataCamp](https://www.datacamp.com/ "DataCamp Homepage")
 * [dataquest](https://www.dataquest.io/ "dataquest Homepage")
 * [Code School - try R](http://tryr.codeschool.com/ "tryr Homepage")
@@ -33,6 +36,7 @@ Just useful References!
 
 
 ## Learning Data Science Online
+
 * [udemy - by Charles Redmond, Professor at Mercyhurst University](https://www.udemy.com/user/charlesredmond/ "Homepage at udemy")
   1. [R, ggplot, and Simple Linear Regression](https://www.udemy.com/machlearn1/ "Course Homepage")
   2. [Polynomial Regression, R, and ggplot](https://www.udemy.com/machlearn2/ "Course Homepage")
@@ -45,17 +49,21 @@ Just useful References!
 * [Springboard](https://www.springboard.com "Homepage") -- There are many wokshops that related to Data Science
 
 
-
-
-
 ## Data Science Competitions
+
 * [Kaggle](https://www.kaggle.com/ "Kaggle Homepage")
 * [DrivenData](http://www.drivendata.org/ "DrivenData Homepage")
 * [CrowdANALYTIX](https://www.crowdanalytix.com/ "CrowdANALYTIX Homepage")
 * [InnoCentive](https://www.innocentive.com/ "Homepage")
 
 
+## Data Repositories
+
+* [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/ "Homepage")
+
+
 ## Blogs and Websites for Data Science
+
 * [R-bloggers](http://www.r-bloggers.com/ "R-bloggers Homepage")
 * [r-dir](https://r-dir.com/ "Homepage")
 * [inside-R](http://www.inside-r.org/ "Homepage")
@@ -75,11 +83,13 @@ Just useful References!
 
 
 ## Book Reviews 
+
 * [rkbookreviews](https://rkbookreviews.wordpress.com/ "rkbookreviews Homepage")
 
 
 ## Books 
 ### Books in R / Using R
+
 1. [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](http://statweb.stanford.edu/~tibs/ElemStatLearn/ "Book Homepage") 
   by Trevor Hastie, Robert Tibshirani, and Jerome Friedman
 2. [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/ "Book Homepage")  
@@ -133,6 +143,7 @@ Just useful References!
   
 
 ### Books - No Specific Software
+
 1. [Data Smart: Using Data Science to Transform Information into Insight](http://www.john-foreman.com/data-smart-book.html "Book Homepage")
   by John W. Foreman
 2. [Predictive Analytics, Revised and Updated: The Power to Predict Who Will Click, Buy, Lie, or Die]("No Link") (Revised and Upated Edition)
@@ -153,6 +164,7 @@ Just useful References!
   
 ## Cheatsheets
 ### related to R
+
 * [RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/ "RStudio Resources Homepage") by RStudio
 * [R Reference Card](https://cran.r-project.org/doc/contrib/Short-refcard.pdf "cran r project") by Tom Short
 * [R Cheat Sheet](https://s3.amazonaws.com/quandl-static-content/Documents/Quandl+-+R+Cheat+Sheet.pdf "quandl") by quandl.com
@@ -161,8 +173,10 @@ Just useful References!
 
 
 ### Markdown
+
 * [MARKDOWN SYNTAX - GitHub Guides](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf "on Github") by GitHub
 
 
 ### Probability and Statistics
+
 * [Probability Cheatsheet](http://www.wzchen.com/probability-cheatsheet/ "Homepage") by William Chen
