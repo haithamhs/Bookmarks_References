@@ -140,7 +140,10 @@ Just useful References!
   by Jose M. Sallan, Oriol Lordan, Vicenc Fernandez
 24. [Introduction to Scientific Programming and Simulation Using R, Second Edition](https://www.crcpress.com/Introduction-to-Scientific-Programming-and-Simulation-Using-R-Second-Edition/Jones-Maillardet-Robinson/9781466569997 "on CRC Homepage")
   by Owen Jones, Robert Maillardet, Andrew Robinson
-  
+25. [Data Analysis for the Life Sciences](https://leanpub.com/dataanalysisforthelifesciences)
+  by Rafael A Irizarry and Michael I Love 
+  * [Github for the book](https://github.com/genomicsclass/labs)
+
 
 ### Books - No Specific Software
 
