@@ -143,6 +143,8 @@ Just useful References!
 25. [Data Analysis for the Life Sciences](https://leanpub.com/dataanalysisforthelifesciences)
   by Rafael A Irizarry and Michael I Love 
   * [Github for the book](https://github.com/genomicsclass/labs)
+26. [Data Mining with Rattle and R: The Art of Excavating Data for Knowledge Discovery (Use R!)](http://rattle.togaware.com)
+  by Graham Williams
 
 
 ### Books - No Specific Software
