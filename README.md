@@ -79,7 +79,7 @@ Just useful References!
 * [Statistical Modeling, Causal Inference, and Social Science](http://andrewgelman.com/ "Homepage")
 * [Statistics.com](http://www.statistics.com "Homepage")
 * [pythonprogramming.net](https://pythonprogramming.net "Homepage") -- mainly using __PYTHON__ -- __INCLUDING VIDEOS__
-
+* [ParallelR blog](http://www.parallelr.com/blog/)
 
 
 ## Book Reviews 
@@ -165,7 +165,12 @@ Just useful References!
 7. [The Functional Art](http://www.thefunctionalart.com/ "Book Homepage")
   by Alberto Cairo
   
-  
+### From here and there 
+
+1. [Top 10 Essential Books for the Data Enthusiast](http://www.kdnuggets.com/2016/04/top-10-essential-books-data-enthusiast.html/2)
+2. [Learn R and Python, and Have Fun Doing It](http://www.r-bloggers.com/learn-r-and-python-and-have-fun-doing-it/)
+3. [How to Learn Python and R, the Data Science Programming Languages, from Beginner to Intermediate and Advanced](http://www.thinkor.org/2013/10/how-to-learn-python-and-r-data-science.html)
+4. 
   
 ## Cheatsheets
 ### related to R
